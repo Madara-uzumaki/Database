@@ -1,4 +1,4 @@
-# database
+# ASTU
 ASTU
 mysql 
 hotel management
